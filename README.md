@@ -1,8 +1,8 @@
 # Stock Trading and Banking System
 
-## This project aims to create a web application for managing banking transactions and stock portfolios. It utilizes React for the frontend, Node.js and Express.js for the backend, and SQL for database management.
+This project aims to create a web application for managing banking transactions and stock portfolios. It utilizes React for the frontend, Node.js and Express.js for the backend, and SQL for database management.
 
-# Basic Functionalities:
+## Basic Functionalities:
 ## Banking:
 User Authentication:
 
