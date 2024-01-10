@@ -1,6 +1,35 @@
-# Getting Started with Create React App
+# Stock Trading and Banking System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project aims to create a web application for managing banking transactions and stock portfolios. It utilizes React for the frontend, Node.js and Express.js for the backend, and SQL for database management.
+
+# Basic Functionalities:
+## Banking:
+User Authentication:
+
+- Users can sign up, log in, and log out.
+Account Management:
+
+- Users can view their account balance.
+- Users can perform transactions (deposit, withdraw, transfer).
+## Stock Portfolio:
+Stock Information:
+
+- Display real-time stock information.
+- Allow users to search for stocks and view detailed information.
+
+Portfolio Management:
+
+- Users can create and manage their stock portfolios.
+- Buy and sell stocks within the application.
+
+Transaction History:
+
+- Users can view their stock transaction history.
+## Technologies Used:
+- React.js (Frontend)
+- Node.js (Backend)
+- Express.js (Server)
+- SQL Database (e.g., MySQL, PostgreSQL)
 
 ## Available Scripts
 
