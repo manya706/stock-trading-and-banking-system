@@ -19,6 +19,9 @@
   font-weight: 600; /* Adjusted font weight for better readability */
   
 }
+.form-group .span .text-danger{
+  color: red;
+}
 
 .form-group {
   margin-bottom: 20px;
